@@ -11,6 +11,9 @@
 # Note: Meta programming is not allowed in this kata. So, the size of your solution is limited.
 
 
+# hello
+
+
 STRANGE_STRING = "ß"
 STRANGE_STRING=STRANGE_STRING.capitalize()
 STRANGE_STRING=STRANGE_STRING.lower()
